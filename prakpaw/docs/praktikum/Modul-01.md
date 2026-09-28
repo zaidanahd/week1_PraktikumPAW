@@ -20,6 +20,7 @@ Repositori :  [https://github.com/zaidanahd/week1\_PraktikumPAW](https://github.
  **b7b56a0 (HEAD \-\> main, origin/main) web baru**
 
 Tautan pull request yang telah digabungkan:
+https://github.com/zaidanahd/week1_PraktikumPAW/pull/1
 
 Konflik yang terjadi, cara penyelesaian alasan pemilihan isi akhir:  
 Tidak ada
